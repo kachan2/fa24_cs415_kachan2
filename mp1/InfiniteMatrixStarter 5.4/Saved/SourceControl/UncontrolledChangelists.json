@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/UI_Widgets/WB_HealthBar.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/UI_Widgets/ScoreCount.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/HealthMaterial.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/UI_Widgets/HealthPack.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/UI_Widgets/Projectile.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/WB_HealthBar.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS 415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS 415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS 415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS 415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/Senior Year (2024)/CS 415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
