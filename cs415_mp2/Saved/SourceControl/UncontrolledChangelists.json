@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/Healthbar.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/Pickups/Health_Pickup.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/WB_GameOver.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/heart.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/OtherComponents/DeathZone.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/OtherComponents/DeathZone.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Maps/CS415_MP2_Level.umap"
+			]
+		}
+	]
+}
