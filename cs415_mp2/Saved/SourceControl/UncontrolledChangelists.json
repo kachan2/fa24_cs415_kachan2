@@ -11,9 +11,16 @@
 				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/WB_GameOver.uasset",
 				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/heart.uasset",
 				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
-				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/OtherComponents/DeathZone.uasset",
 				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/OtherComponents/DeathZone.uasset",
-				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Maps/CS415_MP2_Level.umap"
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Maps/CS415_MP2_Level.umap",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/collectible_image.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/ScoreCounter.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP1.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard01.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/collectible2_image.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/UIWidgets/Score.uasset",
+				"/Users/macbookpro16/Desktop/UIUC/cs415_repo/cs415_mp2/Content/OtherComponents/DeathZone.uasset"
 			]
 		}
 	]
